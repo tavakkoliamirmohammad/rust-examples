@@ -7,6 +7,7 @@ This repository contains rust examples based on [rust book](https://doc.rust-lan
 - [Chapter 0: Hello World](./ch00_hello_world)
 - [Chapter 1: Hello Cargo](./ch01_hello_carge)
 - [Chapter 2: Guessing Game](./ch02_guessing_game)
+- [Chapter 3.1: Variables and Mutability](./ch03_01_variables_and_mutability/)
 
 ## Contributing
 
