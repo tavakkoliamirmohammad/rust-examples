@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "ch01_hello_cargo"
+name = "ch03_05_control_flow"
 version = "0.1.0"
