@@ -10,7 +10,7 @@ This repository contains rust examples based on [rust book](https://doc.rust-lan
 - [Chapter 3.1: Variables and Mutability](./ch03_01_variables_and_mutability)
 - [Chapter 3.2: Data Types](./ch03_02_data_types)
 - [Chapter 3.3: Functions](./ch03_03_functions)
-
+- [Chapter 3.4: Comments](./ch03_04_comments)
 
 
 ## Contributing
