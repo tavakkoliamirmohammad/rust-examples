@@ -5,6 +5,7 @@ This repository contains rust examples based on [rust book](https://doc.rust-lan
 ## Chapters
 
 - [Chapter 0: Hello World](./ch00_hello_world)
+- [Chapter 1: Hello Cargo](./ch01_hello_carge)
 
 ## Contributing
 
